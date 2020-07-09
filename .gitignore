@@ -28,7 +28,7 @@
 #*gitignore*
 
 #compile file
-*/target
+*/target/
 
 
 #.gitignore
@@ -38,3 +38,4 @@
 hs_err_pid*
 
 
+/target/
