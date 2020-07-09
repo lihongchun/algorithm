@@ -28,7 +28,7 @@
 #*gitignore*
 
 #compile file
-*/target
+*/target/
 
 
 #.gitignore
